@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="302" viewBox="0 0 880 302" role="img" aria-label="poll.me.at at a glance: Logic that cannot trap, Versioned fields, No cookies, no CAPTCHA, Your data, your rules">
+<rect x="0.5" y="0.5" width="879" height="301" rx="12" fill="#0a0a0a" stroke="#262626"/>
+<rect x="24" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="44" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">01</text>
+<line x1="72" y1="56" x2="200" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="44" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="44" dy="0">Logic that</tspan><tspan x="44" dy="22">cannot trap</tspan></text>
+<text x="44" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="44" dy="0">Loops,</tspan><tspan x="44" dy="21">self-references and</tspan><tspan x="44" dy="21">forward references</tspan><tspan x="44" dy="21">are rejected on save,</tspan><tspan x="44" dy="21">and the server runs</tspan><tspan x="44" dy="21">the same checks.</tspan></text>
+<rect x="236" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="256" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">02</text>
+<line x1="284" y1="56" x2="412" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="256" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="256" dy="0">Versioned</tspan><tspan x="256" dy="22">fields</tspan></text>
+<text x="256" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="256" dy="0">Ids are made once and</tspan><tspan x="256" dy="21">never reused.</tspan><tspan x="256" dy="21">Changing a rating</tspan><tspan x="256" dy="21">scale makes a new</tspan><tspan x="256" dy="21">field, so counts</tspan><tspan x="256" dy="21">never mix.</tspan></text>
+<rect x="448" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="468" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">03</text>
+<line x1="496" y1="56" x2="624" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="468" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="468" dy="0">No cookies, no</tspan><tspan x="468" dy="22">CAPTCHA</tspan></text>
+<text x="468" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="468" dy="0">Anonymous responses</tspan><tspan x="468" dy="21">set no cookie. Spam</tspan><tspan x="468" dy="21">protection is a</tspan><tspan x="468" dy="21">honeypot plus a</tspan><tspan x="468" dy="21">server-issued minimum</tspan><tspan x="468" dy="21">fill time.</tspan></text>
+<rect x="660" y="24" width="196" height="254" rx="10" fill="#171717" stroke="#262626"/>
+<text x="680" y="60" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#525252">04</text>
+<line x1="708" y1="56" x2="836" y2="56" stroke="#404040" stroke-width="1"/>
+<text x="680" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#fafafa" font-weight="600"><tspan x="680" dy="0">Your data, your</tspan><tspan x="680" dy="22">rules</tspan></text>
+<text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3"><tspan x="680" dy="0">Streaming CSV export</tspan><tspan x="680" dy="21">with formula</tspan><tspan x="680" dy="21">escaping, erase a</tspan><tspan x="680" dy="21">respondent by email,</tspan><tspan x="680" dy="21">and per-form</tspan><tspan x="680" dy="21">retention windows.</tspan></text>
+</svg>
